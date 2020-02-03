@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to Baby Wrong Eat Posture Record
 
-You can use the [editor on GitHub](https://github.com/jichungan9498/BabyWrongEatPostureRecord/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The baby's wrong eating posture is bad for the baby's digestion and health. As parents, we need to pay close attention to our baby's daily eating posture and behavior. When the baby appears wrong eating posture or behavior, should correct the baby in time. You can use the app to record your baby's wrong posture and food type in daily eating. You can also record how often and how badly your baby feels about the wrong position or behavior. You can put these records together to help your baby get rid of the wrong eating positions and grow healthily.
 
-### Markdown
+If you have any questions, you can either leave a message or send the questions to our email address.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We will answer them for you in the first time.
 
-```markdown
-Syntax highlighted code block
+### Address: jichungan9498@163.com
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jichungan9498/BabyWrongEatPostureRecord/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you!
